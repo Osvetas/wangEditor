@@ -1,3 +1,29 @@
+## [4.7.1](https://github.com/wangeditor-team/wangEditor/compare/v4.7.0...v4.7.1) (2021-05-20)
+
+
+### Bug Fixes
+
+* 设置/取消表头不删除第一行 ([d9fd913](https://github.com/wangeditor-team/wangEditor/commit/d9fd9139a2943b87193e6f37266fde94cbddab8e))
+* 文本删完后存在的图片会消失 ([5b14868](https://github.com/wangeditor-team/wangEditor/commit/5b14868cc5ef2534476b9f81b35178108cf74b81))
+* indent 缩进时, 增加对 head 的处理 ([8d506e4](https://github.com/wangeditor-team/wangEditor/commit/8d506e43afa016dcb7d618cbbf4c99658af0c670))
+
+# [4.7.0](https://github.com/wangeditor-team/wangEditor/compare/v4.6.17...v4.7.0) (2021-05-13)
+
+
+### Bug Fixes
+
+* 全选删除表格内容,表格外的内容会进入表格 ([33aae89](https://github.com/wangeditor-team/wangEditor/commit/33aae8924f965cb412e76fb488baa84521a11ff2))
+* 无法粘贴从qq复制过来的文本 ([fc88652](https://github.com/wangeditor-team/wangEditor/commit/fc88652aa0b2da381365b9aebde16a8ed6082f9e))
+* 修复禁用状态下scroll-to-head功能失效 ([79d1326](https://github.com/wangeditor-team/wangEditor/commit/79d13267cb4616e1df88259477c3dd053b1de4e9))
+* 修复ie11下 设置行高无效、多行无效和内容消失 ([b74f787](https://github.com/wangeditor-team/wangEditor/commit/b74f78731ec62f76a80ef00991cfa788c20830d3))
+* 修复ie11序列功能无效的bug ([b4ecdbd](https://github.com/wangeditor-team/wangEditor/commit/b4ecdbd497bbc26a14032afedc0f9b21aad84954))
+* 修复panel菜单position位置的问题 ([c66fb8b](https://github.com/wangeditor-team/wangEditor/commit/c66fb8b03623b3580d03bfe1f60e3ea266125a19))
+
+
+### Features
+
+* 插件注册和初始化 ([00326b6](https://github.com/wangeditor-team/wangEditor/commit/00326b60b83f1f0c2a0299182632479a88907a31))
+
 ## [4.6.17](https://github.com/wangeditor-team/wangEditor/compare/v4.6.16...v4.6.17) (2021-04-29)
 
 
