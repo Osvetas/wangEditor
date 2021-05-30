@@ -78,7 +78,7 @@ export function createShowHideFn(editor: Editor) {
 
         if ($node.attr('data-href')) {
             conf.push({
-                $elem: $(`<span>${t('查看链接')}</span>`),
+                $elem: $(`<span>${t('menus.panelMenus.link.查看链接')}</span>`),
                 onClick: (editor: Editor, $node: DomElement) => {
                     let link = $node.attr('data-href')
                     if (link) {
